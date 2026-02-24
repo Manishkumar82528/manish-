@@ -1,5 +1,6 @@
 # manish-
 This is my first repository.
 <br>
-Author Manish kumar
+Author ~ Manish kumar
+<br>
 BIHAR
